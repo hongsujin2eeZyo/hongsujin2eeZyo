@@ -1,4 +1,4 @@
-## 안녕하세요 인하대학교 컴퓨터공학과 재학중인 홍수진입니다 👋
+## 인하대학교 컴퓨터공학과 재학중인 홍수진입니다 👾
 
 <!--
 **hongsujin2eeZyo/hongsujin2eeZyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
