@@ -1,19 +1,13 @@
-## 인하대학교 컴퓨터공학과 재학중인 홍수진입니다 👾
+## 홍수진입니다 👾
 
-<!--
-**hongsujin2eeZyo/hongsujin2eeZyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **인하대학교 컴퓨터공학과** (2023 ~ )
 
-Here are some ideas to get you started:
+### 🏆 Activities
+- 🦁 **멋쟁이사자처럼 인하대학교 13기** Frontend
+- 🌱 **UMC 인하대학교 9기** Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <p>
   <a href="https://www.instagram.com/flood._.jin/">
     <img src="http://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
